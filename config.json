@@ -1,0 +1,9 @@
+{
+	"ip":"DevilSmPxYBT.aternos.me",
+	"port": 45927,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (lolkk334) (lolkk334)",
+	"login-cmd":"/login (lolkk334)"
+}
