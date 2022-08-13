@@ -1,9 +1,9 @@
 {
-	"ip":"DevilSmPxYBT.aternos.me",
-	"port": 45927,
+	"ip":"MxTcity.aternos.me",
+	"port": 31748,
 	"name": "afkbot1",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register (lolkk334) (lolkk334)",
-	"login-cmd":"/login (lolkk334)"
+	"register-cmd":"/op. GodXKiller9994",
+	"login-cmd":"/op .GodXKiller9994"
 }
