@@ -4,6 +4,6 @@
 	"name": ".not_MXT9106",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/op. GodXKiller9994",
+	"register-cmd":"/op .GodXKiller9994",
 	"login-cmd":"/op .GodXKiller9994"
 }
